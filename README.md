@@ -1,4 +1,4 @@
-# Suicidal-Tweet-Detection-NLP-Model
+# Suicidal Tweet Detection NLP Model
 Deep Learning Text Classification Model based on Natural Language Processing (NLP) Algorithm.
 
 
@@ -8,6 +8,8 @@ More than 700,000 people die due to suicide every year. For every suicide there 
 Suicide is a serious public health problem that can have lasting harmful effects on individuals, families, and communities. There are many factors that contribute to suicide. The goal of suicide prevention is to reduce factors that increase risk and increase factors that promote resilience.
 
 Suicide is linked to mental disorders, particularly depression and alcohol use disorders, and the strongest risk factor for suicide is a previous suicide attempt.
+
+10th September is celebrated as World Suicide Prevention Day
 
 **The main objective of this NLP model is to identify real time tweets that has potential of expressing suicidal sentiments, in order to prevent suicide in our society.**
 
